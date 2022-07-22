@@ -25,7 +25,6 @@ import org.oppia.android.util.platformparameter.LearnerStudyAnalytics
 import org.oppia.android.util.platformparameter.PlatformParameterValue
 import javax.inject.Inject
 
-
 /** [ViewModel] for [AdministratorControlsFragment]. */
 @FragmentScope
 class AdministratorControlsViewModel @Inject constructor(
